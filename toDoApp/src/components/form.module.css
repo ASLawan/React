@@ -1,0 +1,38 @@
+.todoform {
+  background-color: #fff;
+  border-radius: 8px;
+  padding: 20px;
+  width: 500px;
+  margin: 0 auto;
+  min-height: 30px;
+  margin-top: 50px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+}
+
+.forminput {
+  display: block;
+  width: 100%;
+  color: #000;
+  border: none;
+  font-size: 16px;
+}
+
+.forminput:focus {
+  outline: none;
+}
+
+.formbtn {
+  display: inline-block;
+  border: none;
+  border-radius: 8px;
+  color: #fff;
+  background-color: teal;
+  padding: 12px 20px;
+  cursor: pointer;
+  font-size: 16px;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.container {
+  display: flex;
+}

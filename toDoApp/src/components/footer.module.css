@@ -1,0 +1,18 @@
+.footer {
+  position: fixed;
+  background-color: teal;
+  color: #fff;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 2em;
+  bottom: 0;
+  width: 100%;
+  min-height: 5em;
+}
+
+.item {
+  font-size: 30px;
+}
